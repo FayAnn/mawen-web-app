@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.232.38.118/repository/amazon-snapshot/</url>
+	      <url>http://3.226.122.115:8081/repository/aws-ec-releases/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
